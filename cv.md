@@ -10,3 +10,16 @@
   * HTML&CSS  
   * JS
  
+ **Code Example:**
+ ```
+ function multiply(a, b){
+  return a * b
+}
+ ```
+ **Courses:** RS School (in progress)
+ 
+ **Projects:** [CV](https://github.com/latypovazamat/rsschool-cv)
+ 
+ **Languages:**
+  * Russian (native)
+  * English (A1)
